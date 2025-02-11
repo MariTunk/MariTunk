@@ -4,9 +4,9 @@
 🎨 Beyond code, I express creativity through design and henna art, bringing ideas to life both digitally and traditionally 
 
 👩🏽‍💻Tech Stack & Skills
-Languages: C++, JavaScript,Python, Html & CSS
-Frameworks & Tools: React, Node.js, Docker
-Security & Networking: Wireshark, Nmap
+🌱Languages: C++, JavaScript,Python, Html & CSS
+🔧 Tools: React, Node.js, Docker
+🔒Security & Networking: Wireshark, Nmap
 Other: Git, Linux, Cloud Security
 
 💼 LinkedIn: www.linkedin.com/in/maritunk-24ara 
